@@ -1,0 +1,25 @@
+.signup-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h2{
+        margin: 10px 0;
+    }
+
+    .form-border-container{
+        width: 45%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .sign-up-form-input{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+}
+
+
